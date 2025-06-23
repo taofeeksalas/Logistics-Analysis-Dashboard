@@ -44,8 +44,8 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - Other carriers like APM Maersk and Hapag Lloyd offer opportunity for diversification.
 
 ### Delivery Timing
-- 4,983 orders delivered, with 93 unshipped and 49 still ongoing.
-- 77.9% of shipments are classified as "Late Shipping" based on available timestamp data.
+- 4,983 orders delivered, with 93 unshipped and 49 order delivery still ongoing.
+- 77.9% of shipments are classified as "Late Shipping" based on customer delivery preference.
 
 ---
 
@@ -54,7 +54,6 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - **Diversify shipping partners** to reduce reliance on COSCO and improve delivery flexibility.
 - **Streamline fulfilment in the Central region** by reviewing warehouse operations and staffing.
 - **Prioritise inventory and stock control** for Binders and Paper to reduce backlog.
-- **Implement predictive alerts** for delayed SKUs and high-demand regions.
 
 ---
 
@@ -67,7 +66,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ### Key Assumptions and Caveats
 - Delivery timestamps are assumed accurate and aligned with operational cut-offs.
-- Data reflects only completed orders up to 2015.
+- Data reflects only completed orders up to 2021.
 - Region-based processing times assume equal operational capacities across sites.
 
 ---
