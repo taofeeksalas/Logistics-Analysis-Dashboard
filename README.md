@@ -32,7 +32,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 ## 🔍 Insights Deep-Dive
 
 ### Product Fulfilment
-- Binders and Paper are top-selling products but contribute most to undelivered volumes.
+- Binders and Paper(office supplies) are top-shipped products but contribute most to undelivered volumes.
 - Storage and Accessories also show moderate delivery issues worth monitoring.
 
 ### Regional Analysis
