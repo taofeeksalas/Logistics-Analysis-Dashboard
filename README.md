@@ -28,7 +28,7 @@ This dashboard project was developed to  highlights operational challenge faced 
 This project analyses over 5,000 supply chain transactions to uncover operational inefficiencies. While the business maintains a 99.48% delivery rate, over 77% of shipments are late. High-volume products like **Binders** and **Paper** also show the highest undelivered quantities, indicating fulfilment issues. COSCO, the dominant delivery partner (60%), may be a bottleneck. Regional disparities in processing time, especially in the Central region (4.06 days), further suggest the need for targeted operational improvements. This dashboard empowers teams to optimise logistics, prioritise product demand, and enhance delivery performance.
 
 ---
-
+## 🧩 Enterprise Relational Diagram
 ![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/powerbi/img/ERD.PNG?raw=true)
 
 ## 🔍 Insights Deep-Dive
