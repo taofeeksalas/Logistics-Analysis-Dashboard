@@ -29,7 +29,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ---
 
-![ERD](relative/path/to/image.png)
+![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/powerbi/img/ERD.PNG?raw=true)
 
 ## 🔍 Insights Deep-Dive
 
