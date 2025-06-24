@@ -52,7 +52,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ---
 ## 🔍 Exec Overveiw
-![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/powerbi/img/ERD.PNG?raw=true)
+![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/visuals/Executive%20Overview.PNG)
 
 ## ✅ Recommendations
 
