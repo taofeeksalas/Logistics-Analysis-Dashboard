@@ -52,15 +52,20 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ---
 
-✅ Recommendations
-1. Diversify Shipping Partners
-Reduce operational dependency on COSCO, which currently dominates shipment volume. This reliance introduces risk in the event of service disruptions or performance inconsistencies. Evaluate performance benchmarks across alternative partners and gradually redistribute volume to create resilience and improve overall delivery flexibility.
+## ✅ Recommendations
 
-2. Streamline Fulfilment in the Central Region
-Central shows the highest average processing time (4.03 days). Investigate potential root causes such as warehouse layout, staffing levels, and order prioritisation. Optimising these areas could significantly reduce processing delays and support more consistent delivery performance across all regions.
+### 1. **Diversify Shipping Partners**
+Reduce operational dependency on **COSCO**, which currently dominates shipment volume. This reliance introduces risk in the event of service disruptions or performance inconsistencies.  
+Evaluate performance benchmarks across alternative partners and gradually redistribute volume to create resilience and improve overall delivery flexibility.
 
-3. Improve Inventory Control for Binders and Paper
-These two product categories account for the highest undelivered volumes. Implement tighter inventory management practices, such as real-time stock tracking and reorder point automation. Coordination between demand forecasting and procurement can also reduce stockouts and fulfilment gaps.
+### 2. **Streamline Fulfilment in the Central Region**
+The **Central** region shows the highest average processing time (**4.03 days**). Investigate potential root causes such as warehouse layout, staffing levels, and order prioritisation.  
+Optimising these areas could significantly reduce processing delays and support more consistent delivery performance across all regions.
+
+### 3. **Improve Inventory Control for Binders and Paper**
+**Binders** and **Paper** account for the highest undelivered volumes. Implement tighter inventory management practices, such as real-time stock tracking and reorder point automation.  
+Coordination between demand forecasting and procurement can help reduce stockouts and fulfilment gaps.
+
 
 ---
 
