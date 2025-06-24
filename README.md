@@ -41,6 +41,9 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - The West accounts for the largest share of orders (32.16%), followed by the East (27.97%).
 - Central region has the longest average processing time (4.06 days), indicating fulfilment inefficiency.
 
+## 🔍 Exec Overveiw
+![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/visuals/Executive%20Overview.PNG)
+
 ### Carrier Performance
 - COSCO dominates shipment volume (60.05%), suggesting a need to evaluate service risk and performance.
 - Other carriers like APM Maersk and Hapag Lloyd offer opportunity for diversification.
@@ -51,7 +54,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - The majority of shipments follow standard or economy fulfilment timelines; there is no classification for “Late Shipping” in the current dataset
 
 ---
-## 🔍 Exec Overveiw
+## 🔍 Logistics Details
 ![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/visuals/Executive%20Overview.PNG)
 
 ## ✅ Recommendations
