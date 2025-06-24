@@ -51,6 +51,8 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - The majority of shipments follow standard or economy fulfilment timelines; there is no classification for “Late Shipping” in the current dataset
 
 ---
+## 🔍 Exec Overveiw
+![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/powerbi/img/ERD.PNG?raw=true)
 
 ## ✅ Recommendations
 
