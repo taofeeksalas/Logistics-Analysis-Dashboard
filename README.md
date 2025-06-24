@@ -52,11 +52,15 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ---
 
-## ✅ Recommendations
+✅ Recommendations
+1. Diversify Shipping Partners
+Reduce operational dependency on COSCO, which currently dominates shipment volume. This reliance introduces risk in the event of service disruptions or performance inconsistencies. Evaluate performance benchmarks across alternative partners and gradually redistribute volume to create resilience and improve overall delivery flexibility.
 
-- **Diversify shipping partners** to reduce reliance on COSCO and improve delivery flexibility.
-- **Streamline fulfilment in the Central region** by reviewing warehouse operations and staffing.
-- **Prioritise inventory and stock control** for Binders and Paper to reduce backlog.
+2. Streamline Fulfilment in the Central Region
+Central shows the highest average processing time (4.03 days). Investigate potential root causes such as warehouse layout, staffing levels, and order prioritisation. Optimising these areas could significantly reduce processing delays and support more consistent delivery performance across all regions.
+
+3. Improve Inventory Control for Binders and Paper
+These two product categories account for the highest undelivered volumes. Implement tighter inventory management practices, such as real-time stock tracking and reorder point automation. Coordination between demand forecasting and procurement can also reduce stockouts and fulfilment gaps.
 
 ---
 
