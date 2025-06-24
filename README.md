@@ -25,7 +25,7 @@ This dashboard project was developed to  highlights operational challenge faced 
 
 ## 🧾 Executive Summary
 
-This project analyses over 5,000 supply chain transactions to uncover operational inefficiencies. While the business maintains a 99.48% delivery rate, over 77% of shipments are late. High-volume products like **Binders** and **Paper** also show the highest undelivered quantities, indicating fulfilment issues. COSCO, the dominant delivery partner (60%), may be a bottleneck. Regional disparities in processing time, especially in the Central region (4.06 days), further suggest the need for targeted operational improvements. This dashboard empowers teams to optimise logistics, prioritise product demand, and enhance delivery performance.
+This project analyses over 5,000 supply chain transactions to uncover operational patterns and fulfilment performance across regions and product categories. The business maintains a strong 99.48% delivery rate, with Binders and Paper showing the highest undelivered volumes, highlighting areas for inventory and logistics attention. The Central region has the longest average processing time at 4.03 days, suggesting operational improvement opportunities. Shipping method analysis shows a clear customer preference for Standard and Economy shipping, which together make up more than 77% of all deliveries. This dashboard provides stakeholders with visibility into fulfilment trends, shipping method adoption, and delivery statuses to support operational decision-making.
 
 ---
 ## 🧩 Enterprise Relational Diagram
@@ -46,8 +46,9 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - Other carriers like APM Maersk and Hapag Lloyd offer opportunity for diversification.
 
 ### Delivery Timing
-- 4,983 orders delivered, with 93 unshipped and 49 order delivery still ongoing.
-- 77.9% of shipments are classified as "Late Shipping" based on customer delivery preference.
+- 4,983 orders have been successfully delivered.
+- 93 remain unshipped, and 49 are currently in transit (Delivery Ongoing)
+- The majority of shipments follow standard or economy fulfilment timelines; there is no classification for “Late Shipping” in the current dataset
 
 ---
 
@@ -63,12 +64,12 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 ### Questions for Stakeholders Prior to Project Advancement
 - What are the current SLAs in place with each shipping partner?
-- How is late shipping defined internally vs customer perception?
+- How are undelivered volumes currently prioritised or followed up?
 - Are there region-specific challenges (e.g. infrastructure, warehousing) impacting performance?
 
 ### Key Assumptions and Caveats
 - Delivery timestamps are assumed accurate and aligned with operational cut-offs.
-- Data reflects only completed orders up to 2021.
+- Analysis focuses on orders fulfilled between 2018 and 2021 as per available data.
 - Region-based processing times assume equal operational capacities across sites.
 
 ---
