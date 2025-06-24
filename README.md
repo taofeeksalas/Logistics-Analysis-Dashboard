@@ -77,10 +77,9 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 
 | Skill Area       | Tools Applied                        |
 |------------------|--------------------------------------|
-| Data Cleaning    | Excel                           |
-| Data Modelling   | DAX, Power BI                        |
+| Data Cleaning    | Excel,Power BI                       |
+| Data Modelling   | DBdiagram , Power BI                 |
 | Visual Analytics | Bar, Line, Pie, Donut, Map Visuals   |
-| Business Analysis| KPI design, trend interpretation     |
 
 ---
 
