@@ -1,4 +1,4 @@
-# 📦 Supply Chain Performance Dashboard
+# 📦 Logistics Performance Dashboard
 
 ## 🗂 Table of Contents
 1. [Project Background](#project-background)
