@@ -1,6 +1,6 @@
 #  Logistics Performance Dashboard
 
-## 🗂 Table of Contents
+##  Table of Contents
 1. [Project Background](#project-background)
 2. [Executive Summary](#executive-summary)
 3. [Insights Deep-Dive](#insights-deep-dive)
