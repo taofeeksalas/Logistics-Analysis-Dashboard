@@ -1,4 +1,4 @@
-# 📦 Logistics Performance Dashboard
+#  Logistics Performance Dashboard
 
 ## 🗂 Table of Contents
 1. [Project Background](#project-background)
@@ -11,12 +11,12 @@
 
 ---
 
-## 📌 Project Background
+##  Project Background
 
 This dashboard project was developed to  highlights operational challenge faced by a retail distribution company in the US. The business manages thousands of product orders across multiple regions and relies heavily on external shipping companies to fulfil deliveries.
 
 
-### 🎯 Target Stakeholders:
+###  Target Stakeholders:
 - **Logistics & Operations Teams** – to track delivery timelines, volume, and bottlenecks.
 - **Sales & Marketing** – to identify demand patterns by region and product.
 - **Executive Leadership** – to monitor performance KPIs and support strategic decisions.
@@ -28,10 +28,10 @@ This dashboard project was developed to  highlights operational challenge faced 
 This project analyses over 5,000 supply chain transactions to uncover operational patterns and fulfilment performance across regions and product categories. The business maintains a strong 99.48% delivery rate, with Binders and Paper showing the highest undelivered volumes, highlighting areas for inventory and logistics attention. The Central region has the longest average processing time at 4.03 days, suggesting operational improvement opportunities. Shipping method analysis shows a clear customer preference for Standard and Economy shipping, which together make up more than 77% of all deliveries. This dashboard provides stakeholders with visibility into fulfilment trends, shipping method adoption, and delivery statuses to support operational decision-making.
 
 ---
-## 🧩 Enterprise Relational Diagram
+##  Enterprise Relational Diagram
 ![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/powerbi/img/ERD.PNG?raw=true)
 
-## 🔍 Insights Deep-Dive
+##  Insights Deep-Dive
 
 ### Product Fulfilment
 - Binders and Paper(office supplies) are top-shipped products but contribute most to undelivered volumes.
@@ -41,7 +41,7 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - The West accounts for the largest share of orders (32.16%), followed by the East (27.97%).
 - Central region has the longest average processing time (4.06 days), indicating fulfilment inefficiency.
 
-## 🔍 Exec Overveiw
+##  Exec Overveiw
 ![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/visuals/Executive%20Overview.PNG)
 
 ### Carrier Performance
@@ -54,10 +54,10 @@ This project analyses over 5,000 supply chain transactions to uncover operationa
 - The majority of shipments follow standard or economy fulfilment timelines; there is no classification for “Late Shipping” in the current dataset
 
 ---
-## 🔍 Logistics Details
+##  Logistics Details
 ![ERD](https://github.com/taofeeksalas/supply-chain-dashboard/blob/main/visuals/Logistics%20Detail.PNG)
 
-## ✅ Recommendations
+##  Recommendations
 
 ### 1. **Diversify Shipping Partners**
 Reduce operational dependency on **COSCO**, which currently dominates shipment volume. This reliance introduces risk in the event of service disruptions or performance inconsistencies.  
@@ -74,7 +74,7 @@ Coordination between demand forecasting and procurement can help reduce stockout
 
 ---
 
-## 🧭 Clarifying Questions, Assumptions, and Caveats
+##  Clarifying Questions, Assumptions, and Caveats
 
 ### Questions for Stakeholders Prior to Project Advancement
 - What are the current SLAs in place with each shipping partner?
@@ -88,7 +88,7 @@ Coordination between demand forecasting and procurement can help reduce stockout
 
 ---
 
-## 💡 Tools & Techniques Used
+##  Tools & Techniques Used
 
 | Skill Area       | Tools Applied                        |
 |------------------|--------------------------------------|
